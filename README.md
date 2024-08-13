@@ -39,7 +39,7 @@
 
 <p align="center"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=ArunKushhhh&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="sriijannn" />
 <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=ArunKushhhh&theme=tokyonight" alt="sriijannn" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=sriijannn&show_icons=true&locale=en&theme=tokyonight" alt="sriijannn" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=ArunKushhhh&show_icons=true&locale=en&theme=tokyonight" alt="sriijannn" />
 <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=ArunKushhhh&theme=github-compact" alt="sriijannn" />
   
 </p>
