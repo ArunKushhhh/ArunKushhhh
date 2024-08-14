@@ -7,7 +7,7 @@
 - 📝 LinkedIn: [Arun-Kushwaha](https://www.linkedin.com/in/arun-kumar-kushwaha-b26085286/)
 
 - 📫 Mail: **[Mail Me.](arunsarojkushwaha10@gmail.com)**
-<img src="https://myreadme.vercel.app/api/embed/ArunKushhhh?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/ArunKushhhh?panels=userstatistic,commitgraph" alt="reimaginedreadme" />
 
 <hr>
 
