@@ -34,7 +34,7 @@
 <h3>Statistics:</h3>
 
 <p align="center"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=ArunKushhhh&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="sriijannn" />
-  
+<br>
 <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=ArunKushhhh&theme=tokyonight" alt="sriijannn" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ArunKushhhh&show_icons=true&locale=en&theme=tokyonight" alt="sriijannn" /> -->
 
@@ -42,7 +42,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ArunKushhhh&theme=juicyfresh&no-bg=true" />
 
 </p>
-<!-- <h3>Contribution Graph:</h3> -->
+<hr>
+<h3>Contribution Graph:</h3>
 <p align="center">
 <img align="center" height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=ArunKushhhh&theme=github-compact" alt="sriijannn" />
 </p>
