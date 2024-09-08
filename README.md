@@ -39,7 +39,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ArunKushhhh&show_icons=true&locale=en&theme=tokyonight" alt="sriijannn" /> -->
 
 <!--<h3>Sta/tistics:</h3> -->
-<!--<img src="https://github-profile-trophy.vercel.app/?username=ArunKushhhh&theme=juicyfresh&no-bg=true" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=ArunKushhhh&theme=juicyfresh&no-bg=true" />
 
 </p>
 <hr>
