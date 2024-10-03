@@ -121,8 +121,8 @@
 
 <h3>Statistics:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkushhhh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="arunkushhhh" />
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkushhhh&" alt="arunkushhhh" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkushhhh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="arunkushhhh" />
+	<img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=arunkushhhh&" alt="arunkushhhh" />
 </p>
 
 <p align="center">
