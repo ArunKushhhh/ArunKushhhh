@@ -131,6 +131,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkushhhh&theme=tokyonight" alt="arunkushhhh" /></a> </p>
 
+<hr>
+
 <h3>Contribution Graph:</h3>
 <p align="center">
 <img align="center" height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=ArunKushhhh&theme=github-compact" alt="ArunKushhhh" />
