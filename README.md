@@ -1,4 +1,7 @@
+<!-- [![MasterHead] () -->
 <h1 align="center">Hi 👋, I'm Arun Kumar Kushwaha</h1>
+<p align="center">Sophomore at AIT Pune, UI UX Designer, Front-End Web Developer and App Developer </p>
+<!-- <img align="right" alt="fire" width="400" src=""> -->
 
 - 📫 How to reach me **austen.dezigns.dev@gmail.com**
 
@@ -122,6 +125,9 @@
 <h3>Statistics:</h3>
 <p align="center">
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkushhhh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="arunkushhhh" />
+</p>
+
+<p align="center">
 	<img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=arunkushhhh&" alt="arunkushhhh" />
 </p>
 
