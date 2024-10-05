@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Arun Kumar Kushwaha</h1>
 <p align="center">Sophomore at AIT Pune, UI UX Designer, Front-End Web Developer and App Developer </p>
-<!-- <img align="right" alt="fire" width="400" src=""> -->
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="150">
 
 - 📫 How to reach me **austen.dezigns.dev@gmail.com**
 
