@@ -92,7 +92,7 @@
 ### Statistics 📊
 <div align="left">
 	<img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=arunkushhhh&" alt="arunkushhhh" />
-	<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" height="400">
+	<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" height="300">
 </div>
 
 ### Spotify Playing 🎧
