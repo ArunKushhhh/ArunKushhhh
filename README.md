@@ -3,10 +3,16 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar Kushwaha</h1>
 <p align="center">21 | Developer | Secretary I&E Cell, aitpune | 2x hackathon winner</p>
 
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd20xb2M2c29xOWpycDU1ZDJrenZ5a2s4MmZpZGw5NDcyODM1ZWRtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" height="250">
+
+<br />
+
 📫 How to reach me **austen.dezigns.dev@gmail.com**
 <br />
 <br />
 ⚡ Check out my portfolio: **<a target="_blank" href="https://www.iamausten.me/">iamausten.me</a>**
+
+
 
 
 ### Connect with me 🤝🏻
@@ -25,6 +31,7 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
+<br />
 
 ### Languages and Tools 💻
 <div align="left">
@@ -89,11 +96,14 @@
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
 </div>
 
+<br />
+
 ### Statistics 📊
 <div align="left">
 	<img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=arunkushhhh&" alt="arunkushhhh" />
-	<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" height="300">
 </div>
+
+<br />
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31xncutsjftde6tov3a45cja7t3q?si=2eb0165bdaa14cd2)
