@@ -1,4 +1,4 @@
-![Masthead Banner](./linkedInBanner.png)
+<!-- ![Masthead Banner](./linkedInBanner.png) -->
 
 <h1 align="center">Hi 👋, I'm Arun Kumar Kushwaha</h1>
 <p align="center">21 | Developer | Secretary I&E Cell, aitpune | 2x hackathon winner</p>
