@@ -3,12 +3,13 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar Kushwaha</h1>
 <p align="center">21 | Developer | Secretary I&E Cell, aitpune | 2x hackathon winner</p>
 
-
-<!-- <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="300"> -->
-
 📫 How to reach me **austen.dezigns.dev@gmail.com**
+<br />
+<br />
+⚡ Check out my portfolio: **<a target="_blank" href="https://www.iamausten.me/">iamausten.me</a>**
 
-<h3 align="left">Connect with me:</h3>
+
+### Connect with me 🤝🏻
 <div align="left">
   <a href="https://www.linkedin.com/in/arun-kumar-kushwaha-b26085286/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -25,9 +26,7 @@
   </a>
 </div>
 
-###
-
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools 💻
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -90,9 +89,11 @@
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
 </div>
 
-###
-
-<h3>Statistics:</h3>
+### Statistics 📊
 <div align="left">
 	<img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=arunkushhhh&" alt="arunkushhhh" />
+	<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" height="400">
 </div>
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31xncutsjftde6tov3a45cja7t3q?si=2eb0165bdaa14cd2)
